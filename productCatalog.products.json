@@ -1,0 +1,82 @@
+[
+  {
+    "_id": {
+      "$oid": "673b18f89aabee43ea5ce174"
+    },
+    "product_id": 101,
+    "name": "Laptop",
+    "brand": "Dell",
+    "price": 1000,
+    "specifications": {
+      "processor": "Intel Core i7",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "screen_size": "15.6 inches"
+    },
+    "category": "Electronics"
+  },
+  {
+    "_id": {
+      "$oid": "673b18f89aabee43ea5ce175"
+    },
+    "product_id": 102,
+    "name": "Smartphone",
+    "brand": "Samsung",
+    "price": 799.99,
+    "specifications": {
+      "processor": "Exynos 990",
+      "ram": "8GB",
+      "storage": "256GB",
+      "screen_size": "6.5 inches"
+    },
+    "category": "Electronics"
+  },
+  {
+    "_id": {
+      "$oid": "673b18f89aabee43ea5ce176"
+    },
+    "product_id": 201,
+    "name": "T-Shirt",
+    "size": "M",
+    "color": "Blue",
+    "material": "Cotton",
+    "price": 15.99,
+    "category": "Clothing"
+  },
+  {
+    "_id": {
+      "$oid": "673b18f89aabee43ea5ce177"
+    },
+    "product_id": 202,
+    "name": "Jeans",
+    "size": "32",
+    "color": "Black",
+    "material": "Denim",
+    "price": 45,
+    "category": "Clothing"
+  },
+  {
+    "_id": {
+      "$oid": "673b18f89aabee43ea5ce178"
+    },
+    "product_id": 301,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "isbn": "978-0-06-112008-4",
+    "price": 12.99,
+    "category": "Books"
+  },
+  {
+    "_id": {
+      "$oid": "673b18f89aabee43ea5ce179"
+    },
+    "product_id": 302,
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "isbn": "978-0-452-28423-4",
+    "price": 10.99,
+    "category": "Books"
+  }
+]
